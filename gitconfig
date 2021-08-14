@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = seifalejandro@gmail.com
+	name = Alejandro Seif
